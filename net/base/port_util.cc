@@ -39,6 +39,7 @@ const int kRestrictedPorts[] = {
     53,      // domain
     77,      // priv-rjs
     79,      // finger
+    80,      // http
     87,      // ttylink
     95,      // supdup
     101,     // hostriame
